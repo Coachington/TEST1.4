@@ -2547,7 +2547,7 @@ background-color: #000 !important;
 }
 }
 .md-footer.classic .footer-container{
-color: rgb(250, 3, 24) !important;
+color: rgb(0, 0, 0) !important;
 background-color: rgb(255, 255, 255) !important;	
 }
 #app > header > div.header-container.nosticky > div.header-bg{
@@ -2556,7 +2556,7 @@ background:#fff !important;
 }
 #app .md-header.classic .header-container .head-account>.menu-item, .md-header.classic .header-container .head-menu>.menu-item>a, .md-header.classic .header-container .head-account>.menu-item>a, .md-header.classic .header-container .head-language-pc>.menu-item, .md-footer .menu-item .footer-menu .menu-label>a, .md-footer.classic .main-content .right-content p, .md-footer.classic .main-content .right-content p span, .md-footer.classic .main-content .right-content p span a, .md-footer .menu-item .footer-menu .menu-label{
 	
-color: rgba(250, 3, 24, 1) !important;	
+color: rgb(0, 0, 0) !important;	
 }
 .md-header.classic .header-container .head-menu>.menu-item .wrapper .menu-item, .md-header.classic .header-container .head-account>.menu-item .wrapper .menu-item, .md-header.classic .header-container .head-language-pc>.menu-item .wrapper .menu-item, .md-header.classic .header-container .head-menu>.menu-item.has-child:hover:before, .md-header.classic .header-container .head-menu>.menu-item.has-child:focus:before, .md-header.classic .header-container .head-account>.menu-item.has-child:hover:before, .md-header.classic .header-container .head-account>.menu-item.has-child:focus:before, .md-header.classic .header-container .head-language-pc>.menu-item.has-child:hover:before, .md-header.classic .header-container .head-language-pc>.menu-item.has-child:focus:before{
 	
